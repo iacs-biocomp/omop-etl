@@ -1,0 +1,9 @@
+source_code,source_concept_id,source_vocabulary_id,source_code_description,target_concept_id,target_vocabulary_id,valid_start_date,valid_end_date,invalid_reason
+U/L,0,unidades,[U]/L unit per liter,8645,UCUM,1970-01-01,2099-12-31,
+mL/min/{1.73_m2},0,unidades,milliliter per minute per 1.73 square meter,720870,UCUM,1970-01-01,2099-12-31,
+{log_copies}/mL,0,unidades,log_copies/mL,8873,UCUM,1970-01-01,2099-12-31,
+ng/mL{FEU},0,unidades,nanogram of fibrinogen equivalent unit per milliliter,32707,UCUM,1970-01-01,2099-12-31,
+/100{WBCs},0,unidades,per 100 white blood cells,9032,UCUM,1970-01-01,2099-12-31,
+u[IU]/mL,0,unidades,uIU/mL micro-international unit per milliliter,9093,UCUM,1970-01-01,2099-12-31,
+[pH],0,unidades,pH,8482,UCUM,1970-01-01,2099-12-31,
+{Index_val},0,unidades,index,8529,UCUM,1970-01-01,2099-12-31,

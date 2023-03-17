@@ -1,0 +1,4 @@
+source_code,source_concept_id,source_vocabulary_id,source_code_description,target_concept_id,target_vocabulary_id,valid_start_date,valid_end_date,invalid_reason
+825..25,0,Condition,metatarsal fracture,440238,SNOMED,1970-01-01,2099-12-31,
+V72.31 ,0,Condition,gynecological examination,765885,SNOMED,1970-01-01,2099-12-31,
+044.9,0,Condition,HUMAN IMMUNODEFICIENCY VIRUS  INFECTION,439727,SNOMED,1970-01-01,2099-12-31,

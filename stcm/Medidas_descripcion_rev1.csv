@@ -1,0 +1,9 @@
+source_code,source_concept_id,source_vocabulary_id,source_code_description,target_concept_id,target_vocabulary_id,valid_start_date,valid_end_date,invalid_reason
+diuresis_nm,0,er_measurement,diuresis,4247279,SNOMED,1970-01-01,2099-12-31,
+heartrate_nm,0,er_measurement,Pulse rate,4301868,SNOMED,1970-01-01,2099-12-31,
+temperature_nm,0,er_measurement,temperature,45771331,SNOMED,1970-01-01,2099-12-31,
+bp_syst_nm,0,er_measurement,systolic blood pressure (MM HG),4152194,SNOMED,1970-01-01,2099-12-31,
+bp_dias_nm,0,er_measurement,diastolic blood pressure (MM HG),4154790,SNOMED,1970-01-01,2099-12-31,
+glycemia_nm,0,er_measurement,glucose level,37393576,SNOMED,1970-01-01,2099-12-31,
+breathrate_nm,0,er_measurement,breathrate,4313591,SNOMED,1970-01-01,2099-12-31,
+o2sat_nm,0,er_measurement,oxygen saturation,40483539,SNOMED,1970-01-01,2099-12-31,
